@@ -1,0 +1,21 @@
+
+body {
+    background-color: #dde9e1;
+}
+
+.navbar{
+    background-color: #29cf7c;
+}
+
+.quem-somos {
+    background-color: lightblue;
+}
+
+.margin {
+    padding-top: 1px;
+    padding-bottom: 10px;
+}
+
+img    {
+    border-radius: 50%;
+}
