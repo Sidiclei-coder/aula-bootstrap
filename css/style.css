@@ -5,16 +5,16 @@ body {
 }
 
 .navbar{
-    background-color: mediumturquoise;
+    background-color: rgb(129, 192, 190);
 }
 
 .quem-somos {
-    background-color: lightblue;
-    color: gray;
+    background-color:  lightblue;
+    color: darkcyan;
 }
 
 .text-quemsomos {
-    color: cornflowerblue;
+    color:  rgb(8, 88, 86);
     text-shadow: 2px 2px 4px #000000;
 }
 
@@ -25,20 +25,40 @@ body {
 
 #linha-vertical {
     height: 5px;
-    background-color: mediumturquoise;
+    background-color: rgb(173, 236, 233);
 }
 
 .parceiros {
-    background-color:  lightblue;
-    color: gray;
+    background-color: rgb(157, 231, 229);
+    color: darkcyan;
 }
 
 .text-parceiro {
-    color: cornflowerblue;
+    color: rgb(8, 88, 86);
     text-shadow: 2px 2px 4px #000000;
 }
 
+.servicos {
+    background-color:  lightblue;
+}
+
+.text-servicos {
+    color: rgb(8, 88, 86);
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+
+.imgservicos {
+    margin: 15px;
+    border-radius: 30px;
+}
+
+.ar {
+    max-width: 400px;
+}
+
 h4 {
-    color: darkcyan;
+    color: rgb(39, 104, 9);
     text-shadow: 2px 2px 4px #000000;
 }
